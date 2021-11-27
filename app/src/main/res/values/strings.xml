@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WeatherFeed</string>
+    <string name="app_main_heading">Weather</string>
+    <string name="details_view_heading">Forecast Details</string>
+    <string name="app_main_search_input_hint"><i>Search for a City ...</i></string>
+    <string name="app_main_pinned_location">Pinned Locations</string>
+    <string name="app_main_default_no_pin">No Locations Pinned</string>
+    <string name="details_view_default_city">Hyderabad</string>
+    <string name="text_view_weather_desc_default">default desc</string>
+    <string name="text_view_weather_temp_default">23.44</string>
+    <string name="text_view_weather_temp_format">%s \u2103</string>
+    <string name="text_view_weather_cords_default">78.4744,17.3753</string>
+    <string name="text_view_weather_cords_format">Lat:%s | Long:%s</string>
+    <string name="text_view_weather_temps_format">Max:%s | Min:%s</string>
+    <string name="go_back_button_text">Go back</string>
+    <string name="weather_icon_desc">Temperature Icon</string>
+    <string name="details_view_sunrise_heading">Sunrise</string>
+    <string name="details_view_sunset_heading">Sunset</string>
+    <string name="details_view_sunset_loading">loading</string>
+</resources>
